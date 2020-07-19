@@ -3,7 +3,7 @@ public class HelloWorld {
     System.out.println("Hello world by chiru");
     System.out.println("Hello world by chiru");
     System.out.println("Hello world by chiru");
-    System.out.println("Hello world by chiru");
-    System.out.println("Hello world by chiru");
+    System.out.println("Hello YOU");
+    System.out.println("Hello ALL");
   }
 }
